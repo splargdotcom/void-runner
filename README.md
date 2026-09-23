@@ -1,10 +1,30 @@
+<p align="center">
+  <img src="assets/void-runner-logo.webp" alt="VOID RUNNER — Deep Field" width="600">
+</p>
+
 # VOID RUNNER
 
 **VOID RUNNER 1.3.2 — DEEP FIELD** is a complete offline single-file 6DOF prospecting sim.
 
+**[▶ PLAY VOID RUNNER ON ITCH.IO](https://splarg.itch.io/void-runner)**
+
+*Read the signal. Work the seam. Go deeper into the black.*
+
+<p align="center">
+  <a href="https://splarg.itch.io/void-runner">
+    <img src="assets/void-runner-key-art.jpg" alt="VOID RUNNER — Deep Field itch.io release art">
+  </a>
+</p>
+
 Fly a wireframe survey ship through three increasingly hostile belts, resolve uncertain asteroid returns, cut marked stress nodes, haul ore/crystals/cores back to Moon Base Alpha, complete contracts, deploy salvage drones, recover planetary research and investigate rare deep-field anomalies.
 
 ## Play
+
+### itch.io
+
+**Play in your browser:** https://splarg.itch.io/void-runner
+
+### Offline
 
 Open `index.html` in a modern desktop browser with WebGL enabled. No server, install step, build system or network connection is required.
 
@@ -85,6 +105,10 @@ VOID RUNNER is a prospecting game first. Combat is occasional consequence and sp
 > What is that signal?
 
 rather than how many enemies can be spawned.
+
+## Release artwork
+
+The logo and key art used for the itch.io release are stored in `assets/`.
 
 ## Third-party license
 
