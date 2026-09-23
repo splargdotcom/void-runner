@@ -16,6 +16,12 @@
   </a>
 </p>
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/void-runner-screenshot-01.jpg" alt="VOID RUNNER gameplay screenshot">
+</p>
+
 Fly a wireframe survey ship through three increasingly hostile belts, resolve uncertain asteroid returns, cut marked stress nodes, haul ore/crystals/cores back to Moon Base Alpha, complete contracts, deploy salvage drones, recover planetary research and investigate rare deep-field anomalies.
 
 ## Play
